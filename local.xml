@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="ikshan1945"
-           fetch="https://github.com/cloudprject"
+           fetch="https://github.com/ikshan1945"
            revision="eleven"/>
 
  <!-- Device Trees -->
